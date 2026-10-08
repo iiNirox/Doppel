@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller folders
+build/
+dist/
+*.spec
+
+# Doppel save files
+*.rec
