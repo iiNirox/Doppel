@@ -1,11 +1,11 @@
-# Python
+# Python cache & build junk
 __pycache__/
 *.pyc
 
-# PyInstaller folders
+# PyInstaller compilation directories
 build/
 dist/
 *.spec
 
-# Doppel save files
+# Local Macro recordings
 *.rec
