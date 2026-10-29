@@ -22,3 +22,6 @@ Doppel is a lightweight, open-source Python application that records mouse movem
 3. Install the required dependency:
    ```bash
    pip install -r requirements.txt
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iiNirox.Doppel&query_only=true)
