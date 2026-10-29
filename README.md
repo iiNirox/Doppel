@@ -25,5 +25,5 @@ Doppel is a lightweight, open-source Python application that records mouse movem
 
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iiNirox.Doppel&query_only=true" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iiNirox.Doppel" alt="visitors">
 </p>
